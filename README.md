@@ -1,16 +1,18 @@
-# et3_mobiletask
+# eT3 mobileTask
 
-A new Flutter project.
+Pages created by Flutter.
 
-## Getting Started
+## Documentation
 
-This project is a starting point for a Flutter application.
+Starting with Home screen page, First it splitted to rows, containers, and columns to place every item correctly, Secondly [online color picker tool](https://redketchup.io/color-picker) used to get colors prefectly and add SVG dependency to handle svg icons attached, Thirdly finialize screen by adding shadows to favorited coffee's description, then this favorited item made to navigate to Cafe screen.
+![homeScreen](https://user-images.githubusercontent.com/63668000/181850864-b6c46367-1e44-44c9-b565-284db367925f.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Finally, Cafe screen created as well with back button naviagte to Home screen, but coffee and milk assets downloaded because they are not exist in asset folder from link attached nor flutter icons.  
+![cafeScreen](https://user-images.githubusercontent.com/63668000/181850907-f781a633-c1be-4093-a20d-443c6bce39a8.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Instructions to run the solution
+
+1- Clone repo to run on your own emulator or device (flutter, dart SDKs and appropriate IDE needed).
+2- Download application APK (Android) [MediaFire link] (https://www.mediafire.com/file/lj4pztk056734fj/app.apk/file)
+  OR [Google Drive link](https://drive.google.com/file/d/12deBGAFTeXgGTuXQqqREvBmB4Zxw0Kn3/view?usp=sharing)
