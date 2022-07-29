@@ -68,7 +68,8 @@ flutter:
     - assets/icons/heart.svg
     - assets/icons/bookmark.svg
     - assets/icons/user.svg
-
+    - assets/icons/milk.jpg
+    - assets/icons/coffee.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
