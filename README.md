@@ -22,6 +22,6 @@ Finally, Cafe screen created as well with back button naviagte to Home screen, b
 
 ## Instructions to run the solution
 
-1- Clone repo to run on your own emulator or device (flutter, dart SDKs and appropriate IDE needed).<br />
+1- Clone repo to run on your own emulator or device (flutter, dart SDKs and appropriate IDE needed) -main code files found at lib folder-.<br />
 2- Download APK (Android) [MediaFire link](https://www.mediafire.com/file/lj4pztk056734fj/app.apk/file)
   OR [Google Drive link](https://drive.google.com/file/d/12deBGAFTeXgGTuXQqqREvBmB4Zxw0Kn3/view?usp=sharing).
