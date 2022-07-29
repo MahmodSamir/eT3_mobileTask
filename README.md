@@ -1,6 +1,6 @@
 # eT3 Mobile Task
-  include:
-    - brief documentaion.
+  include:<br />
+    - brief documentaion. <br />
     - instructions to run.
     
 Pages created by Flutter.
@@ -14,8 +14,7 @@ Starting with Home screen page, First it splitted to rows, containers, and colum
 
 
 
-
-Finally, Cafe screen created as well with back button naviagte to Home screen, but coffee and milk assets downloaded because they are not exist in asset folder from link attached nor flutter icons. 
+Finally, Cafe screen created as well with back button naviagte to Home screen, but coffee and milk assets downloaded because they are not exist in asset folder from link attached nor flutter icons.
 
 
 
